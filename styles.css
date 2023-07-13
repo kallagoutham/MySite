@@ -1,0 +1,77 @@
+div{
+  background-color: #E4F9F5;
+}
+p{
+  line-height: 30px;
+}
+hr{
+  border-style: dotted;
+  border-width: 30%;
+  border-bottom: none;
+  margin: auto;
+}
+body{
+  color: 40514E;
+  margin: 0;
+  text-align: center;
+  font-family: cursive,Arial;
+  line-height: 30px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.computer{
+  width: 10%;
+}
+.chilli{
+  width: 10%;
+}
+.Contact{
+  width: 15%;
+}
+.Programmer{
+  color: #66BFBF;
+  font-size: 2rem;
+  font-weight: normal;
+}
+h1{
+  margin: 0,auto,0,auto;
+  padding-top: 50px;
+  padding-bottom: 0;
+  font-family: Sacramento,cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+h2{
+  font-family: Montserrat,sans-serif;
+  padding-bottom: 10px;
+  color: #66BFBF;
+}
+a{
+  color: #11999E;
+}
+.top{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: : 100px;
+
+}
+.middle{
+  margin: 100px,0;
+}
+.skills{
+
+}
+.bottomcloud{
+  position: absolute;
+  left: 400px;
+}
+.topcloud{
+  position: relative;
+  left: 300px;
+  top: 30px;
+}
+.chilli{
+
+}
